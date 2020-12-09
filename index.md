@@ -1,5 +1,5 @@
 ## Bienvenido "Proyecto agua"
-Alumna: Fernanda Macias Zamora
+## Fernanda Macias Zamora
 
 <div>Teachable Machine Image Model</div>
 <button type="button" onclick="init()">Start</button>
